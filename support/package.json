@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "generate-collections": "^0.3.4",
-    "generate-defaults": "^0.3.1",
+    "generate-defaults": "^0.4.0",
     "lazy-cache": "^2.0.1",
     "strip-color": "^0.1.0"
   },
