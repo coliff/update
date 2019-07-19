@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "arr-union": "^3.1.0",
-    "assemble-core": "^0.25.0",
+    "assemble-core": "^0.27.0",
     "assemble-loader": "^0.6.1",
     "base-cli-process": "^0.1.18",
     "base-config-process": "^0.1.9",
@@ -42,7 +42,7 @@
     "base-runtimes": "^0.2.0",
     "base-store": "^0.4.4",
     "common-config": "^0.1.0",
-    "data-store": "^0.16.1",
+    "data-store": "^1.0.0",
     "export-files": "^2.1.1",
     "extend-shallow": "^2.0.1",
     "find-pkg": "^0.1.2",
